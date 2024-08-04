@@ -19,7 +19,7 @@ This repository contains tools for performing password guessing attacks on vario
 
 1. **Clone the repository:**
    ```
-   git clone https://github.com/yourusername/password-guessing-tools.git
+   git clone https://github.com/JayGaba/password-guessing-tools.git
    cd password-guessing-tools
    ```
 
