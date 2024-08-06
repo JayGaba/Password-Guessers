@@ -19,8 +19,8 @@ This repository contains tools for performing password guessing attacks on vario
 
 1. **Clone the repository:**
    ```
-   git clone https://github.com/JayGaba/password-guessing-tools.git
-   cd password-guessing-tools
+   git clone https://github.com/JayGaba/Password-Guessers.git
+   cd Password-Guessers
    ```
 
 3. **Install dependencies:**
